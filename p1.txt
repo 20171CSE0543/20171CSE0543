@@ -1,4 +1,2 @@
 hi welcomwe to it lab
-<html>
-<body>
-pushpalatha.s
+login into github
